@@ -113,7 +113,7 @@ header a {
 /* Styles for header sections to apply background images or colour. */
 
 .pier {
-  background: url(images/black.jpg);
+  background: url(images/pano.JPG);
   background-size: cover;
   background-attachment: fixed;
 }
